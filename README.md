@@ -5,7 +5,7 @@
 --- Date :-         20-09-2022
 --- Tool used:-     PostgreSQL
 
-/*
+
 Description :- 
                 • This is a Retail Transations SQL Project. This database contains 1 tables retail.
 		• Retail table has 9000 rows.
