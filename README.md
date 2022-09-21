@@ -4,7 +4,7 @@
 --- Created by :-   Hardi Jain & Vinit Sangoi
 --- Date :-         20-09-2022
 --- Tool used:-     PostgreSQL
-<br>
+
 /*
 Description :- 
 		• This is a Retail Transations SQL Project. This database contains 1 tables retail.
