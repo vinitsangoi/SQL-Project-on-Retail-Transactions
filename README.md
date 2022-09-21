@@ -14,4 +14,4 @@ Description :-
 Approach :- 
 		• Understanding the dataset
 		• Creating business questions
-		• Analyzing through SQL queries
+		• Analyzing with SQL queries
