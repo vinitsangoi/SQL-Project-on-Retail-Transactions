@@ -7,7 +7,7 @@
 
 
 Description :- 
-                • This is a Retail Transactions SQL Project. This database contains 1 tables retail.
+                • This is a Retail Transactions SQL Project. This database contains 1 table i.e. retail.
 		• Retail table has 9000 rows.
 		• In this project, Hardi Jain & Vinit Sangoi worked together.
 		
